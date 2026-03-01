@@ -44,4 +44,4 @@ Feel free to open issues or submit pull requests for enhancements or bug fixes.
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE) (add LICENSE file if desired).
+This project is open source and available under the [MIT License](LICENSE)
